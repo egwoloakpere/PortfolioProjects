@@ -20,7 +20,7 @@ FROM
 ----------------------------------------------------------------------
 /* 
 Write a query that displays the description of patients having
-number greaster than 5000. Exclude Body Mass Index
+number greater than 5000. Exclude Body Mass Index
 */
 ----------------------------------------------------------------------
 
